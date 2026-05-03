@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Wahid
-- 👀 I’m interested in Fullstack, Web design, Ai, ML and Blockchain.
-- 🌱 I’m currently learning most of the above (crazy ik.)
+- 👀 I’m in Fullstack, Web design, Ai, ML and Blockchain.
+- 🌱 I’m currently Working with most of the above (crazy ik.)
 - 💞️ I’m looking to collaborate on anything you've got for me!
 - ⚡ Fun fact: Nothing scares me at all (definitely not a lie).
 
